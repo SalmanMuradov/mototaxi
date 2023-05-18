@@ -1,0 +1,122 @@
+ .u-section-1 {
+  min-height: 791px;
+}
+
+.u-section-1 .u-map-1 {
+  width: calc(((100% - 1140px) / 2) + 570px);
+  left: 0;
+  right: auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 123px calc(((100% - 1140px) / 2) + 47px) 0 calc(((100% - 1140px) / 2) + 761px);
+}
+
+.u-section-1 .u-form-1 {
+  width: 570px;
+  margin-top: 37px;
+  margin-bottom: 60px;
+  margin-left: calc(((100% - 1140px) / 2) + 642px);
+  height: 367px;
+}
+
+.u-section-1 .u-input-1 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-input-2 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-input-3 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  letter-spacing: 0px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 795px;
+  }
+
+  .u-section-1 .u-map-1 {
+    width: calc(((100% - 940px) / 2) + 470px);
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: calc(((100% - 940px) / 2) + 76px);
+    margin-left: calc(((100% - 940px) / 2) + 667px);
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 470px;
+    margin-top: 40px;
+    margin-left: calc(((100% - 940px) / 2) + 502px);
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 1275px;
+  }
+
+  .u-section-1 .u-map-1 {
+    height: 686px;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: auto;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 176px;
+    margin-top: 37px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin: 27px auto 54px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-map-1 {
+    height: 1058px;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 164px;
+    margin-left: calc(((100% - 540px) / 2) + 383px);
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1813px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 140px;
+    margin-top: 91px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+    margin-top: 72px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+}
